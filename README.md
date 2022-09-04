@@ -26,6 +26,6 @@ Or run this command
 $ python -m flask run
 ```
 ##signup/signin/bookstock
-(https://github.com/ALONEWINNER/e-librabry/blob/main/2.jpg)
-(https://github.com/ALONEWINNER/e-librabry/blob/main/3.jpg)
-(https://github.com/ALONEWINNER/e-librabry/blob/main/4.jpg)
+![Libray Management App - Flask](https://github.com/ALONEWINNER/e-librabry/blob/main/2.jpg)
+![Libray Management App - Flask](https://github.com/ALONEWINNER/e-librabry/blob/main/3.jpg)
+![Libray Management App - Flask](https://github.com/ALONEWINNER/e-librabry/blob/main/4.jpg)
