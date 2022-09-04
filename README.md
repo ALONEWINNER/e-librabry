@@ -25,3 +25,7 @@ Or run this command
 ```bash
 $ python -m flask run
 ```
+##signup/signin/bookstock
+(https://github.com/ALONEWINNER/e-librabry/blob/main/2.jpg)
+(https://github.com/ALONEWINNER/e-librabry/blob/main/3.jpg)
+(https://github.com/ALONEWINNER/e-librabry/blob/main/4.jpg)
